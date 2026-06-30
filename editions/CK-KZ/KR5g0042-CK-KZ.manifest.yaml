@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0042/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0042/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 重陽立教十五論
+  date: '2015-08-29 02:49:23.057478'
+  source:
+    repository: kanripo
+    path: KR5g0042
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0042_000-CK-KZ.yaml, hash: 'sha256:1c6659dcdd43c3b9624990f83f27350f23aac9c165a92c4b1ca5d4f6951b5744'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0042_000-CK-KZ.markers.yaml, hash: 'sha256:ed68afe0052e8d3736b15d64253722b36565db8983e465ed2b910c88f37720d2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ_01p021a
+    span:
+    - body
+    - 0
+    - 1451
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:43cfb9c3b6a3bfc2e0209c9629550bcf76c43d447b666af0afc6f3c4d85fc06e

@@ -1,0 +1,179 @@
+canonical_identifier: bkk:krp/KR5g0042/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5g0042/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 重陽立教十五論
+  date: '2015-08-29 02:49:23.057478'
+  source:
+    repository: kanripo
+    path: KR5g0042
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0042_000-CK-KZ-jye.yaml, hash: 'sha256:1ca4ed72f2a988c1b40b9e27080a93ea2c2bbeb73d3792f635ad277006e15fa8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0042_000-CK-KZ-jye.markers.yaml, hash: 'sha256:3466edd7220c158b7d616c785192fdb949649ea474686d85d0a4bff7d8d53c0d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h2
+    span:
+    - body
+    - 0
+    - 77
+  label: 第一住庵
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h3
+    span:
+    - body
+    - 77
+    - 219
+  label: 第二雲遊
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h4
+    span:
+    - body
+    - 219
+    - 344
+  label: 第三學書
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h5
+    span:
+    - body
+    - 344
+    - 445
+  label: 第四論合藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h6
+    span:
+    - body
+    - 445
+    - 561
+  label: 第五論蓋造
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h7
+    span:
+    - body
+    - 561
+    - 694
+  label: 第六論合道伴
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h8
+    span:
+    - body
+    - 694
+    - 811
+  label: 第七論打坐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h9
+    span:
+    - body
+    - 811
+    - 902
+  label: 第八論降心
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h10
+    span:
+    - body
+    - 902
+    - 957
+  label: 第九論鍊性
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h11
+    span:
+    - body
+    - 957
+    - 1007
+  label: 第十論匹配五氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h12
+    span:
+    - body
+    - 1007
+    - 1076
+  label: 第十一論混性命
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h13
+    span:
+    - body
+    - 1076
+    - 1152
+  label: 第十二論聖道
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h14
+    span:
+    - body
+    - 1152
+    - 1206
+  label: 第十三論超三界
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h15
+    span:
+    - body
+    - 1206
+    - 1275
+  label: 第十四論養身之法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5g0042_CK-KZ-jye_000-h16
+    span:
+    - body
+    - 1275
+    - 1354
+  label: 第十五論離凡世
+  type: section
+  level: 2
+hash: sha256:3260d9b3d17a6e0ac63df722326d44cd5f883914fd88b96d97aae9df08520b53
